@@ -134,4 +134,4 @@ ENV/
 MNIST*
 
 # Notebooks
-!notebook
+!notebook/*
